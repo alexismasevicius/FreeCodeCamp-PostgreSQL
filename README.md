@@ -7,7 +7,8 @@
 For this project, you will build a database of celestial bodies using PostgreSQL.
 
 
-Instructions
+Instructions\n
+
 For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering psql --username=freecodecamp --dbname=postgres in the terminal. Make all the tests below pass to complete the project. Be sure to get creative, and have fun!
 Don't forget to connect to your database after you create it 😄
 Here's some ideas for other column and table names: description, has_life, is_spherical, age_in_millions_of_years, planet_types, galaxy_types, distance_from_earth.
